@@ -1,0 +1,61 @@
+body{
+    height: 100vh;
+    background-image: url(https://us.123rf.com/450wm/zven0/zven01409/zven0140900014/31481121-dark-monochrome-climbing-plant-full-screen-as-background.jpg?ver=6);
+    background-size: cover;
+    background-size: auto;
+}
+.main { 
+    width: 100%;
+    height: 100vh;
+    background-size:cover;
+}
+.main {
+    text-align: center;
+}
+form {
+   border-style:dotted;
+   border-color: chartreuse;
+}
+.input-filed{
+    display: flex;
+    width: 100%;
+}
+.input-filed{
+justify-content: space-between;
+}
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: double;
+    border-width: 10px;
+    border-color: orangered;
+}
+
+.label {
+    border-style: double;
+    border-width: 10px;
+}
+h2{
+    color: antiquewhite;
+}
+label{
+    color:blanchedalmond;
+    font-size: larger;
+}
+label1{
+    color:blanchedalmond;
+    font-size: larger;
+}
+a
+{
+    color: chartreuse;
+}
+p
+{
+    color: chocolate;
+}    
+
+
+
